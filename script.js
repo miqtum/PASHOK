@@ -39,7 +39,7 @@ function checkAnswer(selectedIndex) {
             currentQuestionIndex = 0;
         } else {
             modalText.textContent = questions[currentQuestionIndex].rightMessage;
-            currentQuestionIndex++;
+            // currentQuestionIndex++;
         }
     } else {
         modalText.textContent = questions[currentQuestionIndex].wrongMessage;
@@ -55,7 +55,7 @@ function checkAnswer(selectedIndex) {
         if (modalText.textContent === "MAC ХУЯК!") {
             window.location.href = 'final.html'; // Переход на final.html
         } else if (modalText.textContent === questions[currentQuestionIndex].rightMessage) {
-            showQuestion(currentQuestionIndex);
+            showQuestion(++currentQuestionIndex);
             console.log(currentQuestionIndex);
         }
     }, 2000);
