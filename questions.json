@@ -16,27 +16,27 @@
             "Да"
         ],
         "correctIndex": 1,
-        "wrongMessage" : "Та ну нах!",
-        "rightMessage" : "А то!"
+        "wrongMessage" : "Ну-ну",
+        "rightMessage" : "Отош"
     },
     {
         "question": "Чувствуешь легкую зависть, когда видишь, как быстро загружается ПК на Windows?",
         "answers": [
-            "Нет",
-            "Да"
+            "Да",
+            "Нет"
         ],
-        "correctIndex": 1,
-        "wrongMessage" : "Та ну нах!",
-        "rightMessage" : "А то!"
+        "correctIndex": 0,
+        "wrongMessage" : "Не звезди!",
+        "rightMessage" : "Хе-хее"
     },
     {
         "question": "Чувствуешь себя особенным, когда говоришь обладателям ПК про вечный поиск переходников?",
         "answers": [
-            "Нет",
-            "Да"
+            "Да",
+            "Нет"
         ],
         "correctIndex": 1,
-        "wrongMessage" : "Та ну нах!",
-        "rightMessage" : "А то!"
+        "wrongMessage" : "Ага, расскажи",
+        "rightMessage" : "MAC ХУЯК!"
     }
 ]
