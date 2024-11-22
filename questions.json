@@ -1,0 +1,42 @@
+[
+    {
+        "question": "А может твой MacBook стать стильным обогревателем?",
+        "answers": [
+            "Нет",
+            "Да"
+        ],
+        "correctIndex": 1,
+        "wrongMessage" : "Та ну нах!",
+        "rightMessage" : "А то!"
+    },
+    {
+        "question": "Задумывался, что огрызок яблока стоит несколько тысяч рублей?",
+        "answers": [
+            "Нет",
+            "Да"
+        ],
+        "correctIndex": 1,
+        "wrongMessage" : "Та ну нах!",
+        "rightMessage" : "А то!"
+    },
+    {
+        "question": "Чувствуешь легкую зависть, когда видишь, как быстро загружается ПК на Windows?",
+        "answers": [
+            "Нет",
+            "Да"
+        ],
+        "correctIndex": 1,
+        "wrongMessage" : "Та ну нах!",
+        "rightMessage" : "А то!"
+    },
+    {
+        "question": "Чувствуешь себя особенным, когда говоришь обладателям ПК про вечный поиск переходников?",
+        "answers": [
+            "Нет",
+            "Да"
+        ],
+        "correctIndex": 1,
+        "wrongMessage" : "Та ну нах!",
+        "rightMessage" : "А то!"
+    }
+]
